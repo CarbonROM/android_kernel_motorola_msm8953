@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 5FE7EDD4 1507898692 +0000\npushee ssh://review.carbonrom.org:29418/CarbonROM/android_kernel_motorola_msm8953\nnonce 1507898703-4E31605CAE6D2A72C60E6F8D91A788A518ED7D6F\n\n0000000000000000000000000000000000000000 151157de7e6ea39cce617c20aeda66097defa3bb refs/for/cr-5.1\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niJwEAAECAAYFAlngtUQACgkQBwRB5l/n7dQBOAP/fEOsnJF9zhVd6IVyM3r0MDAr\nRyP4g0Mtn2DBxgpNZsyMClHiYcb7vHCqCf6T7WE+QGcN4G8Ft61b71NIPVpdT1ft\nd1QD1+YN6vqaDs80zYaLqlbqi/RtXHa6xxINSUqgghmcqmgB+HKHqx9SwQcPZtCM\nci/XzzLiRiBmEtbe8TY\u003d\n\u003dC1tg\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
